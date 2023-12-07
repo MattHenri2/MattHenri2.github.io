@@ -8,7 +8,7 @@ My GitHub page is http://github.com/MattHenri2.
 
 ### CPSC 120
 
-* https://csufullerton.instructure.com/courses/3445940/assignments/35652783
+* Lab 1
 
  Lab 1, was one of my favorite labs because it was the start of learning the basics of accessing github, creating the homework directory, and cloning the git repository... as well it was our first time coding which was to edit the hello.cc file on VSC.
 
